@@ -1,4 +1,4 @@
-# Hey, what's up? 👋
+# Hey, What's up? 👋
 
 Welcome to my GitHub! I'm Jonathan Ronald, currently a student at **Asia-Pacific International University** 🎓, majoring in **Information Technology**. Here’s a little about me:
 
@@ -16,4 +16,4 @@ You can catch me on:
 
 ---
 
-Explore my projects—where school assignments meet random experiments, and I try to make sense of IT. Feel free to connect or just say hi! 😄
+Explore my projects—where school assignments meet random experiments, and I try to make sense of IT. Feel free to connect or just say hey! 😄
