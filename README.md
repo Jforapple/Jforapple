@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, what's up? 👋
 
-<!--
-**Jforapple/Jforapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm Jonathan Ronald, currently a student at **Asia-Pacific International University** 🎓, majoring in **Information Technology**. Here’s a little about me:
 
-Here are some ideas to get you started:
+- 🎶 **Rhythm Seeker**: I enjoy not just listening to music but also making it—there’s something magical about hitting the right notes!
+- 🌐 **Language Enthusiast**: Always excited to learn new languages, whether programming languages or spoken ones!
+- 💻 **Code Learner**: I’m not quite a programming guru… yet. My code doesn’t always run, but when it does, I’m just as surprised as you are!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Get in Touch
+
+You can catch me on:
+- **Instagram**: [@jforapple_](https://www.instagram.com/jforapple_/)
+- **Facebook**: [@Jonathan Ronald](https://www.facebook.com/jonathan.tambanie.3/)
+
+---
+
+Explore my projects—where school assignments meet random experiments, and I try to make sense of IT. Feel free to connect or just say hi! 😄
