@@ -984,3 +984,21 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 .not-loaded * {
   animation-play-state: paused !important;
 }
+
+.thumbnail {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 150px;
+  height: auto;
+  z-index: 100;
+}
+
+.thumbnail img {
+  width: 100%;
+  height: auto;
+  border: 2px solid #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
